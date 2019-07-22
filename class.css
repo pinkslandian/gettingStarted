@@ -1,3 +1,21 @@
 body {
     background-color: blue;
 }
+
+p {
+    letter-spacing:10px;
+    text-transform: uppercase;
+}
+
+.text {
+    color:red;
+}
+
+.something {
+    background-color:yellow;
+}
+
+#identification{
+    color:green;
+    background-color:red;
+}
