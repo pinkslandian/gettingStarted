@@ -1,0 +1,57 @@
+#one {
+background-color:green;
+border-style:solid;
+font-size:10px;
+color:yellow;
+position:static;
+padding:10%;
+margin: 0%;
+
+}
+
+#two{
+background-color:yellow;
+border-style:dashed;
+font-size:20px;
+color:green;
+position:sticky;
+padding:20%;
+margin:10%;
+}
+
+#three{
+background-color:red;
+border-style:solid;
+font-size:30px;
+color:purple;
+position:relative;
+padding:30%;
+margin:20%;
+
+
+}
+
+#four{
+background-color:purple;
+border-style:dashed;
+font-size:40px;
+color:red;
+position:fixed;
+padding:40%;
+margin:30%;
+
+}
+
+#five{
+background-color:pink;
+border-style:solid;
+font-size:50px;
+color:white;
+position:absolute;
+padding:50%;
+margin:40%;
+}
+
+img {
+    width:200px;
+}
