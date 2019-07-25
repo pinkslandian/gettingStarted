@@ -2,6 +2,7 @@ body{
     background-color:#f5a2bd;
     margin:20px;
     padding:25px;
+    border-style:solid;
 
 }
 
@@ -50,4 +51,19 @@ h3{
 
 p{
     padding:30px;
+}
+
+#one {
+    height:100px;
+}
+
+#two{
+    width:50%;
+}
+
+#three{
+    width:200px;
+    padding:25px;
+    border-color:purple;
+    border-radius:25px;
 }
