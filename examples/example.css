@@ -65,3 +65,17 @@ h1{
     font-family: 'Lacquer', sans-serif;
 
 }
+
+a:visited {
+  color: #00FF00;
+}
+
+
+a:link {
+  color: #FF00FF;
+}
+
+
+a:active {
+  color: #0000FF;
+}
